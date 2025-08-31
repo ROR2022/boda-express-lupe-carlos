@@ -16,8 +16,8 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Exclusive Demo - Mis XV Años",
-  description: "Te invitamos a celebrar mis XV años - 27 de Diciembre 2025",
+  title: "Boda - Lupe & Carlos",
+  description: "Te invitamos a celebrar la boda de Lupe y Carlos - 28 de Diciembre 2025",
   generator: "",
 }
 

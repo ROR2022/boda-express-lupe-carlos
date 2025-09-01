@@ -4,17 +4,17 @@
 export const dataBodaExpress = {
   title: "Nuestra Boda",
   description: "Invitación de Boda",
-  groom: "Carlos Alberto González Espinoza",
-  bride: "María Guadalupe Picazo Picazo",
-  confirmationNumber: "5217761113708", //+52 1 776 111 3708
-  date: "28 de Diciembre 2025",
-  locationCeremony: "Salón de Eventos Elegance",
+  groom: "Roberto Hernandez Martinez",//"Carlos Alberto González Espinoza",
+  bride: "Jimena Gonzalez Perez",//"María Guadalupe Picazo Picazo",
+  confirmationNumber: "5217777937484", //+52 1 776 111 3708
+  date: "18 de Diciembre 2025",
+  locationCeremony: "Fiesta Inn",
   ceremonyTime: "14:00",
-  ubiLinkCeremony: "https://maps.app.goo.gl/ULbwGJPE8iWVY6hn7",
-  locationReception: "Salón de Eventos Elegance",
+  ubiLinkCeremony: "https://maps.app.goo.gl/roVGHxeTrPzGv9LKA",
+  locationReception: "Fiesta Inn",
   receptionTime: "15:00",
-  ubiLinkReception: "https://maps.app.goo.gl/ULbwGJPE8iWVY6hn7",
+  ubiLinkReception: "https://maps.app.goo.gl/roVGHxeTrPzGv9LKA",
   guests: 100,
-  music: "/audio/musica.mp3",
-  backgroundImage: "/images/lupe&carlos.jpg"
+  music: "/audio/galeria.mp3",
+  backgroundImage: "/images/campo1.png"
 }

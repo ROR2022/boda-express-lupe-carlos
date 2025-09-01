@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 import { Playfair_Display, Open_Sans } from "next/font/google"
 import "./globals.css"
 
+
 const playfair = Playfair_Display({
   subsets: ["latin"],
   display: "swap",
@@ -17,7 +18,7 @@ const openSans = Open_Sans({
 
 export const metadata: Metadata = {
   title: "Boda - Lupe & Carlos",
-  description: "Te invitamos a celebrar la boda de Lupe y Carlos - 28 de Diciembre 2025",
+  description: "Te invitamos a celebrar la boda de Lupe y Carlos - 18 de Diciembre 2025",
   generator: "",
 }
 
